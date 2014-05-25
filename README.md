@@ -1,5 +1,4 @@
-testify
-=======
+# Specify
 
 A Sublime Text plugin aimed at making writing PHPSpec specs a walk in the park.
 
