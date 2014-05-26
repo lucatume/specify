@@ -1,6 +1,6 @@
 [
     {
-    "caption": "Specify - create PHPSpec test methods from selection",
+    "caption": "Specify - create PHPSpec specs from selection",
     "command": "specify"
     }
 ]
