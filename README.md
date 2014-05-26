@@ -9,7 +9,7 @@ A Sublime Text plugin aimed at making writing PHPSpec specs a walk in the park.
 The new menus and command palette options should appear in your Sublime Text installation.
 
 ## Usage
-The plugin allows writing specs into a spec in a natural language like
+The plugin allows writing specs using natural language like
 
     given ClassOne $classOne
     given ClassTwo $classtwo
