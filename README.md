@@ -32,4 +32,4 @@ to have an output like
     }
 
 the "given" lines are optional and are used to specify dependencies for the <code>__construct</code> method.  
-To activate the plugin select the natural language lines, bring up the Command Palette and run the "Specify - create PHPSpec test methods from selection"
+To activate the plugin select the natural language lines, bring up the Command Palette and run the "Specify - create PHPSpec spec methods from selection"
